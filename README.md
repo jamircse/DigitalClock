@@ -1,6 +1,6 @@
 # DigitalClock
 DigitalClock in javascript
 
-# **PreView **
+# PreView 
 
 https://jamircse.github.io/DigitalClock/
