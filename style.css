@@ -32,7 +32,7 @@
 
 .clock .text{
   font-size:15px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing:2px;
 }
 .clock span:last-child{
